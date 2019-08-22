@@ -1,0 +1,40 @@
+body
+{
+	background: url(img/2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+.parrafo{
+	width: 60%;
+	margin: 0 auto;
+	//column-count: 3;
+	color: #505050; 
+	background: rgba(255,255,255,0.5);
+	padding: 3em;
+}
+.parrafo1
+{
+	color: #F4D130;
+	margin: 0 auto
+}
+.parrafo2
+{
+	color: #0378EF;
+	margin: 0 auto
+}
+.container
+{
+
+}
+img
+{
+	width: 250px;
+}
+.texto
+{
+	font-family: arial;
+}
+.parrafo3
+{
+	color: #FF0000;
+}
